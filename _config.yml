@@ -136,15 +136,16 @@ author:
 # Site Footer
 footer:
   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iamjinuk"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/jinuk-yeom/"
+    - label: "Light Blog"
+      icon: "far fa-star""
+      url: "https://blog.naver.com/444556"   
+      
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -154,6 +155,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:  
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:      
 
 
 # Reading Files
